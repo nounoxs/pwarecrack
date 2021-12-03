@@ -17,6 +17,14 @@
 
 <div align="center">
 
+# [ 🥚change-log ]
+
+</div>
+
++ [0.1a] Добавлен лоадер, скрипт перенесен в pware.js
+
+<div align="center">
+
 # [ 🪴credits ]
 
 </div>

@@ -26,7 +26,7 @@
 
 <div align="center">
 
-# [ 🪴credits ]
+# [ 🤡credits ]
 
 </div>
 
